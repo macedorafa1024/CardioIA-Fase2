@@ -102,7 +102,7 @@ Os notebooks já foram executados e salvos com as saídas visíveis, então tamb
 
 ## 🎥 Vídeo de demonstração
 
-Vídeo (até 4 minutos, não listado no YouTube) mostrando o funcionamento completo da solução: **[COLOCAR O LINK DO YOUTUBE AQUI]**
+Vídeo (até 4 minutos, não listado no YouTube) mostrando o funcionamento completo da solução: **[[CLIQUE AQUI](https://youtu.be/qEj77AHdpCU)]**
 
 ## 📋 Licença
 
